@@ -1,1 +1,1 @@
-# learning-web-technologies-spring-20-21-sec-d
+# learning-web-technologies-summer-20-21-sec-M
